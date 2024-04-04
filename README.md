@@ -14,6 +14,8 @@ Prompt:  Pretend you are the owner/operator of a tennis (or football, soccer - y
 Our model has a diverse membership base consisting of individuals of all ages, skill levels, and backgrounds. Our club hosts regular tournaments for recreational and competitive matches. Additionally, we offer coaching programs led by certified instructors to help our members improve their skills and reach their full potential on the court.
 In terms of operations, we manage court reservations, membership registrations, coaching schedules, tournament logistics, and facility maintenance. We rely on efficient organization and communication to ensure smooth functioning and deliver a positive experience for our members.
 
+[Data Model Updated 2.pdf](https://github.com/msw05090/bookish-meme/files/14877126/Data.Model.Updated.2.pdf)
+
 # Connecting The Data Model
 
 How these all connect:
