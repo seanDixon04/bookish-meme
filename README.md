@@ -81,6 +81,9 @@ Connect via a foreign key in the Scouting Reports table:
 PlayerID (Foreign Key referencing Players)
 
 # Queries 
+
+[Project Queries.pdf](https://github.com/msw05090/bookish-meme/files/14877147/Project.Queries.pdf)
+
 Simple
 
 Write a query to list the full names and playerID of all forwards who are from Belgium
