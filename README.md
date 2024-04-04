@@ -16,8 +16,6 @@ In terms of operations, we manage court reservations, membership registrations, 
 
 [Data Model Updated 2.pdf](https://github.com/msw05090/bookish-meme/files/14877126/Data.Model.Updated.2.pdf)
 
-# Connecting The Data Model
-
 How these all connect:
 
 Players and Matches:
