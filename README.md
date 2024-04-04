@@ -97,7 +97,7 @@ FROM CommunityEvents
 WHERE attendenceNumbers >= 400;
 This query would be helpful for planning out food vendors, entertainment, and other additions the venues during games. Larger events may require more options to account for all of the fans.
 
-Write a query to list every match that had a total of one goal scored by both teams and also took place in Athens Soccer stadium
+**Write a query to list every match that had a total of one goal scored by both teams and also took place in Athens Soccer stadium**
 
 SELECT goalsScored, venue, matchID
 FROM Matches
